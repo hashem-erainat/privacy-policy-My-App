@@ -1,0 +1,20 @@
+Privacy Policy Declaration
+1. Information We Collect We collect specific data to provide and improve our services to you. This includes:
+
+Account Information: We collect your Student ID and login credentials to verify your identity and manage your university account within the application.
+User Content: We collect content that you voluntarily submit to the app, such as Suggestions, texts, or feedback sent to the administration.
+Device Information: We collect device identifiers, such as Firebase Cloud Messaging (FCM) tokens, to send you important university notifications and alerts.
+App Performance & Diagnostics: We collect crash logs and performance data to help us diagnose technical issues and improve app stability.
+2. Third-Party Services We use trusted third-party services to operate our application. These partners may collect or process data on our behalf:
+
+Google Firebase (Crashlytics & Cloud Messaging): used for sending notifications and monitoring application stability.
+https://google.com/
+
+Supabase: used as our backend database and authentication provider to securely store user data and content.
+https://supabase.com/
+
+3. How We Use Your Information
+App Functionality: To authenticate users and ensure you have access to your specific university data.
+Communication: To send you push notifications regarding university news, updates, or status changes.
+Improvement: To analyze crash reports and fix bugs, ensuring a smooth user experience.
+4. Data Retention We retain your personal data and user-generated content for as long as necessary to fulfill the purposes outlined in this policy, or as required by university regulations.
