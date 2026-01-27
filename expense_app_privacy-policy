@@ -1,1 +1,65 @@
-p
+# Privacy Policy
+
+**Last Updated:** January 27, 2026
+
+Welcome to **Financial Assistant AI**. We are committed to protecting your privacy and ensuring the security of your personal and financial data. This Privacy Policy explains how we collect, use, and protect information when you use our application.
+
+## 1. Overview
+
+"Financial Assistant AI" is an expense and debt management application that operates primarily **locally (Offline-first)** on your device. This means your financial data remains stored on your phone, and we do not own external servers to store it. However, we use some smart services (AI) that require an internet connection for real-time processing.
+
+## 2. Information We Collect and How We Use It
+
+### A. Financial Data (Expenses and Debts)
+
+- **What we collect:** Details you enter manually or via voice (amount, category, title, date).
+- **How we use it:** To organize your expenses and display statistics and charts.
+- **Storage:** This data is stored in a local database (SQLite/Drift) inside your phone only. We do not upload it to any cloud server of our own.
+
+### B. Text and Voice Commands (AI Features)
+
+- **Service Used:** Google Gemini API.
+- **How it works:** When you use the "Smart Add" feature or chat with the financial assistant, the text (or text converted from audio) is sent to Google Gemini servers to analyze and extract transaction details (such as amount and category).
+- **Privacy:** Data is sent for processing purposes only, and we do not retain it. This data is also subject to Google's Privacy Policy.
+
+### C. Images (Camera and Gallery)
+
+- **Usage:** The app may request access to the camera or gallery to scan receipts (bills) and extract text from them.
+- **Processing:** Images are typically processed using Text Recognition (OCR) technologies present in the app's libraries.
+
+## 3. Permissions
+
+The application requests the following permissions to function correctly:
+
+- **Internet:** To communicate with Google Gemini API and check for updates.
+- **Microphone:** To record your voice commands and convert them to text.
+- **Camera:** To capture images of receipts (if the feature is available).
+- **Storage:** To save reports or images locally.
+
+## 4. Data Sharing with Third Parties
+
+We do not sell or rent your data to any third party. Limited data is only shared with necessary service providers for the app's operation, which are:
+
+- **Google (Gemini AI & Speech-to-Text):** For AI processing and voice-to-text conversion.
+
+## 5. Data Security
+
+Since data is stored locally on your device, its security depends largely on your phone's security. We recommend using a device passcode and not sharing your device with others to ensure the confidentiality of your financial data.
+
+## 6. Your Rights (Data Deletion)
+
+Since the data exists only on your device, you can delete all your data at any time by:
+
+1.  Uninstalling the application permanently from your phone.
+2.  Or using the "Clear Data" option from your phone settings or app settings (if available).
+
+## 7. Contact Us
+
+If you have any inquiries regarding this Privacy Policy, please contact us via:
+
+- Email: [Enter your email here]
+- Social Media: [Your social media links]
+
+---
+
+**Note:** We may update this Privacy Policy from time to time to reflect improvements in the application. Usage of the app implies acceptance of these terms.
